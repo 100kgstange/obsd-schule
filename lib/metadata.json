@@ -1,0 +1,2920 @@
+{
+  "vaultName": "Obsidian",
+  "lastExport": 1741291797527,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Schule/Abschlussprüfung/00 📌 Information/📌 Fächer und Themen.md",
+    "Schule/Abschlussprüfung/00 📌 Information/desktop.ini",
+    "Schule/Abschlussprüfung/01 💽 Hardware/01 ✅ Mainboard (Motherboard).md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/02 ✅ CPU.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/03 ✅ RAM & ROM.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/04 ✅ Festplatte und SSD.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/05 ✅ Bussysteme.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/06 ✅ Netzteil.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/07 ✅ Kühlsysteme.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/08 ✅ Grafikkarte.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/09 ✅ Bildschirme - Auflösung.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/10 ✅ Soundkarte.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/11 ✅ Optisches Laufwerk (CD, DVD, Blue-Ray).md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/12 ✅ Netzwerkkarte.md",
+    "Schule/Abschlussprüfung/01 💽 Hardware/desktop.ini",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/01 ✅ Data Storage & Storage Systems.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/02 ✅ Backuparten.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/03 ✅ RAID.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/04 ✅ USV.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/05 ✅ Datenbanksystem.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/06 ✅ Verschlüsselung.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/07 ✅ Malware.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/08 ✅ Angriffsmethoden.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/09 ✅ Datenschutz (DSGVO).md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/10 ✅ VPN.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/11 ✅ Pentesting.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/12 ✅ Five-Nines Prinzip.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/13 ✅ SLA.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/14 ✅ Grundgrößen.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/15 ✅ Schutzregeln, Klassen und Schalter.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/16 ✅ Virtualisierung.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/17 ✅ IoT & CPS.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/18 ✅ MQTT & Mosquitto.md",
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/desktop.ini",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/Binär.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/desktop.ini",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/Dezimal.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/Hexadezimal.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/Oktal.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/01 ✅ SMTP.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/02 ✅ IMAP.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/03 ✅ POP3.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/04 ✅ DMARC.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/desktop.ini",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/01 ✅ Zahlensysteme.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/02 ✅ Kabeltypen.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/03 ✅ Topologien.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/04 ✅ Netzwerkarten.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/05 ✅ Netzwerkkomponenten.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/06 ✅ IPv4.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/07 ✅ MAC-Adresse.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/08 ✅ Broadcast, Multicast, Unicast.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/09 ✅ DNS.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/10 ✅ DHCPv4.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/11 ✅ Standardgateway.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/12 ✅ Das OSI-Modell.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/13 ✅ TCP - IP Model.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/14 ✅ UDP and TCP.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/15 ✅ IPv4 Subnetting.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/16 ✅ VLAN.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/17 ✅ IPv6 & IPv6 Subnetting.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/18 ✅ DHCPv6.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/19 ✅ SLAAC.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/20 ✅ WLAN - WiFi - WPA.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/21 ✅ Access Point, Repeator.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/22 ✅ Firewall.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/23 ✅ NAT.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/24 ✅ DMZ.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/25 ✅ AAA-Server und RADIUS.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/26 ✅ Proxy.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/27 ✅ SSL - TLS.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/28 ✅ SSH.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/29 ✅ FTP - SFTP.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/30 ✅ HTTP - HTTPS.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/31 ✅ Sockets.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/32 ✅ URL.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/33 ✅ Quality of Service (QoS).md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/34 ✅ Telnet.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/35 ✅ SNMP.md",
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/desktop.ini",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/01 ✅ Einstieg Schutzbedarfsanalyse.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/02 ✅ ISMS.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/03 ✅ BSI.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/04 ✅ ISO.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/05 ✅ Schutzbedarfskategorien.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/06 ✅ Elementare Gefährdungen.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/07 ✅ PDCA-Zyklus.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/08 ✅ IPSec.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/09 ✅ ITIL.md",
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/desktop.ini",
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/01✅ Entity-Relationship-Modell (ERM).md",
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/02✅ Normalisierung.md",
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/03✅ ACID Prinzip.md",
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/04✅ N zu M-Beziehungen und Surrogatschlüssel.md",
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/05✅ 25 wichtigsten SQL-Befehlen.md",
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/06✅ JOIN.md",
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/Datenbankarten.md",
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/desktop.ini",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/01 Java-Variablen.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/02 String Funktionen.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/03 Kontrollstrukturen.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/04 Scanner (Eingabe Zahlen und Text).md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/05 Getter-Setter.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/06 Array.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/desktop.ini",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/Erstellung einer Klasse in UML-Notation.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/Projekte/desktop.ini",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/Projekte/helloworld.py",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/📌🐍 Python Themen.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/01 ✅ Python Syntax.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/02 ✅ Python Variables.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/03 ✅ Python Data Types.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/04 ✅ Python Numbers.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/05 ✅ Python Casting.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/06 Python Strings.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/desktop.ini",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/Tutorial Extracting and Converting Parts of Strings into Numbers in Python.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/01 Methoden mit einem Struktogramm erstellen.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/01 Regeln für Struktogramm.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/01 Struktogramm.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/01 Struktogramm Basics.md",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/desktop.ini",
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/1) Start Up/01 Unternehmensgründung.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/1) Start Up/02 Finanzierung.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/1) Start Up/03 Rechtsformen Vor und Nachteile.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/1) Start Up/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/2) Projektmanagement/01 Basics.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/2) Projektmanagement/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/3) Unternehmensformen/01 Rechtsformen.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/3) Unternehmensformen/02 Rechtsformen der öffentlichen Hand.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/3) Unternehmensformen/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/4) Finanzierung/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/5) IT-Service/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/01 ABC-Analyse.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/02 Angebotsvergleich Entscheidungs Kriterien.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/03 Pareto Prinzip.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/04 BGB.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/05 Bindung an das Angebot.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/06 Anfrage + Angebot.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/07 Bestellverfahren.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/09 Lagerkennzahlen.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/10 Mehrwersteuer vs Umsatzsteuer.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/11 Optimale Bestellmenge.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/12 Vergleich bsp.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/13 Prozentrechnung.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/14 Vertragsarten.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/15 Kostenartenrechnung.md",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/01 Rechtsformen.md",
+    "Schule/Abschlussprüfung/07 💲BWL/02 Finanzierung.md",
+    "Schule/Abschlussprüfung/07 💲BWL/03 Lagerhaltung.md",
+    "Schule/Abschlussprüfung/07 💲BWL/04 Kostenrechnung.md",
+    "Schule/Abschlussprüfung/07 💲BWL/desktop.ini",
+    "Schule/Abschlussprüfung/07 💲BWL/IT-Service.md",
+    "Schule/Abschlussprüfung/07 💲BWL/Projektmanagement.md",
+    "Schule/Abschlussprüfung/08 Deutsch/desktop.ini",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/01 ✅ Rechte und Pflichte in der Ausbildung.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/02 ✅ Sozialer Arbeitsschutz.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/03 ✅ Schutz vom Gefahren am Arbeitsplatz.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/04 ✅ Arbeitsrecht.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/05 ✅ Arbeitsvertrag.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/06 ✅ Kündingung und Kündigungsschutz.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/07 ✅ Betriebsrat.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/08 ✅ Tarifverträge.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/09 ✅ Lohn- und Gehaltsabrechnung.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/10 ✅ Sozialversicherungssystem.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/11 ✅ Verträge abschließen.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/12 ✅ Mängelreklamation.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/13 ✅ Angebotsvergleich.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/14 ✅ Arten von Güter.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/15 ✅ Anlageformen und Dreieck der Vermögensbildung.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/16 ✅ Kredite.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/17 ✅ Maximal-Minimal Prinzip.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/18 ✅ Schulden, Gründe für Überschuldung, Verbraucherinsolvenz.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/19 ✅ Marktarten.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/20 ✅ Marktformen.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/21 ✅ Marktwirtschaft und Wirtschaftspolitik.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/22 ✅ Inflation, Deflation und Reallohn.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/23 ✅ Gründung von Unternehmen.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/24 ✅ Unternehmensstruktur und Rechtsformen .md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/25 ✅ Finanzierung WK.md",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/27 desktop.ini",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/28 desktop.ini",
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/desktop.ini",
+    "lib/media/pasted-image-20241029155506.png",
+    "lib/media/pasted-image-20241029155430.png",
+    "lib/media/pasted-image-20241029155350.png",
+    "lib/media/pasted-image-20241029155309.png",
+    "lib/media/pasted-image-20241029155241.png",
+    "lib/media/pasted-image-20241029155216.png",
+    "lib/media/pasted-image-20241029155122.png",
+    "lib/media/pasted-image-20241029155036.png",
+    "lib/media/pasted-image-20241029154952.png",
+    "lib/media/pasted-image-20241029154918.png",
+    "lib/media/pasted-image-20241029154040.png",
+    "lib/media/pasted-image-20241029160105.png",
+    "lib/media/pasted-image-20241029160202.png",
+    "lib/media/pasted-image-20241112140926.png",
+    "lib/media/pasted-image-20241114142942.png",
+    "lib/media/pasted-image-20241114142852.png",
+    "lib/media/pasted-image-20241114143829.png",
+    "lib/media/pasted-image-20241114143919.png",
+    "lib/media/pasted-image-20241114144011.png",
+    "lib/media/pasted-image-20241114144050.png",
+    "lib/media/pasted-image-20241114144149.png",
+    "lib/media/pasted-image-20241112134759.png",
+    "lib/media/pasted-image-20241112134751.png",
+    "lib/media/full-backup.png",
+    "lib/media/pasted-image-20240115092315.png",
+    "lib/media/pasted-image-20240115092552.png",
+    "lib/media/pasted-image-20240115092418.png",
+    "lib/media/pasted-image-20240111101957.png",
+    "lib/media/pasted-image-20240111104507.png",
+    "lib/media/pasted-image-20240111102048.png",
+    "lib/media/pasted-image-20240111102146.png",
+    "lib/media/pasted-image-20240111102242.png",
+    "lib/media/pasted-image-20240115102038.png",
+    "lib/media/pasted-image-20240115102117.png",
+    "lib/media/pasted-image-20240115102316.png",
+    "lib/media/usv.pdf",
+    "lib/media/pasted-image-20241022155403.png",
+    "lib/media/pasted-image-20241022155501.png",
+    "lib/media/pasted-image-20240307223220.png",
+    "lib/media/pasted-image-20240326144358.png",
+    "lib/media/pasted-image-20240326144458.png",
+    "lib/media/pasted-image-20240326144431.png",
+    "lib/media/pasted-image-20250302165530.png",
+    "lib/media/pasted-image-20240114005651.png",
+    "lib/media/pasted-image-20240114005753.png",
+    "lib/media/pasted-image-20240114010226.png",
+    "lib/media/pasted-image-20240114005915.png",
+    "lib/media/pasted-image-20240212112856.png",
+    "lib/media/pasted-image-20231226182407.png",
+    "lib/media/pasted-image-20231227211728.png",
+    "lib/media/pasted-image-20240110214302.png",
+    "lib/media/pasted-image-20240110214616.png",
+    "lib/media/pasted-image-20240110214353.png",
+    "lib/media/pasted-image-20240110214746.png",
+    "lib/media/pasted-image-20240921232012.png",
+    "lib/media/pasted-image-20240220215807.png",
+    "lib/media/pasted-image-20240221095305.png",
+    "lib/media/pasted-image-20240921232100.png",
+    "lib/media/pasted-image-20240110214422.png",
+    "lib/media/pasted-image-20240110214911.png",
+    "lib/media/pasted-image-20240221095651.png",
+    "lib/media/pasted-image-20240220215916.png",
+    "lib/media/pasted-image-20240921232206.png",
+    "lib/media/pasted-image-20240113213721.png",
+    "lib/media/pasted-image-20240113002121.png",
+    "lib/media/pasted-image-20240116135143.png",
+    "lib/media/{f3bef300-f242-4c3a-b0b0-8b9de077a941}.png",
+    "lib/media/pasted-image-20231227213844.png",
+    "lib/media/pasted-image-20250201213123.png",
+    "lib/media/pasted-image-20250201213012.png",
+    "lib/media/pasted-image-20240114223818.png",
+    "lib/media/pasted-image-20231227215841.png",
+    "lib/media/pasted-image-20240120205829.png",
+    "lib/media/pasted-image-20240120210323.png",
+    "lib/media/pasted-image-20240921233048.png",
+    "lib/media/pasted-image-20231229000739.png",
+    "lib/media/pasted-image-20240114012843.png",
+    "lib/media/pasted-image-20240117171117.png",
+    "lib/media/pasted-image-20240117171022.png",
+    "lib/media/pasted-image-20240114222643.png",
+    "lib/media/pasted-image-20240114222728.png",
+    "lib/media/pasted-image-20240114223006.png",
+    "lib/media/pasted-image-20240114222838.png",
+    "lib/media/pasted-image-20240114223537.png",
+    "lib/media/pasted-image-20240114223412.png",
+    "lib/media/pasted-image-20240114223637.png",
+    "lib/media/pasted-image-20250204191743.png",
+    "lib/media/{ae8eb198-f37b-4997-b5ac-3b6201404b0d}.png",
+    "lib/media/{7d0d6782-9cf1-45f3-9c1f-a7d425fdad1a}.png",
+    "lib/media/{5623788b-656a-4642-a015-52abeaf2b2eb}.png",
+    "lib/media/{62b40b3c-4273-412e-b60f-1d137b240c50}.png",
+    "lib/media/pasted-image-20250211183918.png",
+    "lib/media/pasted-image-20250204193337.png",
+    "lib/media/pasted-image-20250204194445.png",
+    "lib/media/{cf411924-5374-4aa3-83ab-33298517a293}.png",
+    "lib/media/{c1bea54d-eca5-4434-bbd1-fd69f356f9f8}.png",
+    "lib/media/{dbcd6319-5199-4494-92bd-b04384e54e23}.png",
+    "lib/media/{38b6405f-d107-4045-bc23-2ab1157322f7}.png",
+    "lib/media/pasted-image-20241023130216.png",
+    "lib/media/pasted-image-20241023130254.png",
+    "lib/media/pasted-image-20250206210421.png",
+    "lib/media/pasted-image-20250206210504.png",
+    "lib/media/pasted-image-20241126094023.png",
+    "lib/media/pasted-image-20241126094039.png",
+    "lib/media/pasted-image-20241126094538.png",
+    "lib/media/pasted-image-20241126094856.png",
+    "lib/media/pasted-image-20250205210845.png",
+    "lib/media/pasted-image-20250205210923.png",
+    "lib/media/pasted-image-20250205211141.png",
+    "lib/media/pasted-image-20250205211818.png",
+    "lib/media/pasted-image-20250205211225.png",
+    "lib/media/pasted-image-20240921233415.png",
+    "lib/media/pasted-image-20240208105219.png",
+    "lib/media/pasted-image-20240125102914.png",
+    "lib/media/informationsmanagementsystem.pdf",
+    "lib/media/pasted-image-20241205111114.png",
+    "lib/media/pdca-zyklus-900x486.jpeg",
+    "lib/media/{bc216f78-3bbb-4eff-9b71-3c6f4b970b86}.png",
+    "lib/media/pasted-image-20241205211957.png",
+    "lib/media/{a93c922b-e125-484f-b160-759b67595cb0}.png",
+    "lib/media/pasted-image-20240121144928.png",
+    "lib/media/pasted-image-20240121143330.png",
+    "lib/media/pasted-image-20240121143346.png",
+    "lib/media/pasted-image-20240121143358.png",
+    "lib/media/pasted-image-20240118211207.png",
+    "lib/media/изображение-whatsapp-2024-01-18-в-20.11.51_53a7aef8-2.jpg",
+    "lib/media/pasted-image-20240118210121.png",
+    "lib/media/pasted-image-20240207083513.jpg",
+    "lib/media/pasted-image-20240207093211.png",
+    "lib/media/pasted-image-20240218214345.png",
+    "lib/media/pasted-image-20240221155533.jpg",
+    "lib/media/pasted-image-20240219211857.png",
+    "lib/media/pasted-image-20240218214144.png",
+    "lib/media/pasted-image-20240219194218.png",
+    "lib/media/{a9a2df18-0d34-402c-b2df-8cc942349c0d}.png",
+    "lib/media/pasted-image-20250228095906.png",
+    "lib/media/pasted-image-20250228095931.png",
+    "lib/media/{b0d8c2d6-ba72-4b75-91ce-96c5eb589e03}.png",
+    "lib/media/pasted-image-20250112150846.png",
+    "lib/media/pasted-image-20250112150745.png",
+    "lib/media/pasted-image-20250112150700.png",
+    "lib/media/pasted-image-20250228113511.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Schule/Abschlussprüfung/00 📌 Information/📌 Fächer und Themen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6544,
+      "exportedPath": "schule/abschlussprüfung/00-📌-information/📌-fächer-und-themen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/00 📌 Information/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/00-📌-information/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/01 ✅ Mainboard (Motherboard).md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 20064,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/01-✅-mainboard-(motherboard).html",
+      "dependencies": [
+        "lib/media/pasted-image-20241029155506.png",
+        "lib/media/pasted-image-20241029155430.png",
+        "lib/media/pasted-image-20241029155350.png",
+        "lib/media/pasted-image-20241029155309.png",
+        "lib/media/pasted-image-20241029155241.png",
+        "lib/media/pasted-image-20241029155216.png",
+        "lib/media/pasted-image-20241029155122.png",
+        "lib/media/pasted-image-20241029155036.png",
+        "lib/media/pasted-image-20241029154952.png",
+        "lib/media/pasted-image-20241029154918.png",
+        "lib/media/pasted-image-20241029154040.png",
+        "lib/media/pasted-image-20241029160105.png",
+        "lib/media/pasted-image-20241029160202.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/02 ✅ CPU.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 21873,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/02-✅-cpu.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/03 ✅ RAM & ROM.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 10628,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/03-✅-ram-&-rom.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/04 ✅ Festplatte und SSD.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5330,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/04-✅-festplatte-und-ssd.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/05 ✅ Bussysteme.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7108,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/05-✅-bussysteme.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/06 ✅ Netzteil.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7023,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/06-✅-netzteil.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241112140926.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/07 ✅ Kühlsysteme.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7608,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/07-✅-kühlsysteme.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241114142942.png",
+        "lib/media/pasted-image-20241114142852.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/08 ✅ Grafikkarte.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3639,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/08-✅-grafikkarte.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/09 ✅ Bildschirme - Auflösung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6433,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/09-✅-bildschirme-auflösung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/10 ✅ Soundkarte.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7259,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/10-✅-soundkarte.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241114143829.png",
+        "lib/media/pasted-image-20241114143919.png",
+        "lib/media/pasted-image-20241114144011.png",
+        "lib/media/pasted-image-20241114144050.png",
+        "lib/media/pasted-image-20241114144149.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/11 ✅ Optisches Laufwerk (CD, DVD, Blue-Ray).md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6578,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/11-✅-optisches-laufwerk-(cd,-dvd,-blue-ray).html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/12 ✅ Netzwerkkarte.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6104,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/12-✅-netzwerkkarte.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241112134759.png",
+        "lib/media/pasted-image-20241112134751.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/01 💽 Hardware/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/01-💽-hardware/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/01 ✅ Data Storage & Storage Systems.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 13498,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/01-✅-data-storage-&-storage-systems.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/02 ✅ Backuparten.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2931,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/02-✅-backuparten.html",
+      "dependencies": [
+        "lib/media/full-backup.png",
+        "lib/media/pasted-image-20240115092315.png",
+        "lib/media/pasted-image-20240115092552.png",
+        "lib/media/pasted-image-20240115092418.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/03 ✅ RAID.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7863,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/03-✅-raid.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240111101957.png",
+        "lib/media/pasted-image-20240111104507.png",
+        "lib/media/pasted-image-20240111102048.png",
+        "lib/media/pasted-image-20240111102146.png",
+        "lib/media/pasted-image-20240111102242.png",
+        "lib/media/pasted-image-20240115102038.png",
+        "lib/media/pasted-image-20240115102117.png",
+        "lib/media/pasted-image-20240115102316.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/04 ✅ USV.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6362,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/04-✅-usv.html",
+      "dependencies": [
+        "lib/media/usv.pdf"
+      ]
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/05 ✅ Datenbanksystem.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7395,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/05-✅-datenbanksystem.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/06 ✅ Verschlüsselung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 16110,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/06-✅-verschlüsselung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/07 ✅ Malware.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5179,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/07-✅-malware.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/08 ✅ Angriffsmethoden.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 12384,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/08-✅-angriffsmethoden.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/09 ✅ Datenschutz (DSGVO).md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 9507,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/09-✅-datenschutz-(dsgvo).html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/10 ✅ VPN.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4656,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/10-✅-vpn.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/11 ✅ Pentesting.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7968,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/11-✅-pentesting.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/12 ✅ Five-Nines Prinzip.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1812,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/12-✅-five-nines-prinzip.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241022155403.png",
+        "lib/media/pasted-image-20241022155501.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/13 ✅ SLA.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4119,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/13-✅-sla.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/14 ✅ Grundgrößen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3099,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/14-✅-grundgrößen.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240307223220.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/15 ✅ Schutzregeln, Klassen und Schalter.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3287,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/15-✅-schutzregeln,-klassen-und-schalter.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240326144358.png",
+        "lib/media/pasted-image-20240326144458.png",
+        "lib/media/pasted-image-20240326144431.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/16 ✅ Virtualisierung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3727,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/16-✅-virtualisierung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/17 ✅ IoT & CPS.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 16052,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/17-✅-iot-&-cps.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/18 ✅ MQTT & Mosquitto.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 9532,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/18-✅-mqtt-&-mosquitto.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250302165530.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/02 💻 Systemintegration/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/02-💻-systemintegration/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/Binär.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 684,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/1-zahlensysteme/binär.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/1-zahlensysteme/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/Dezimal.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 39,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/1-zahlensysteme/dezimal.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/Hexadezimal.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 38,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/1-zahlensysteme/hexadezimal.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/1 Zahlensysteme/Oktal.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 36,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/1-zahlensysteme/oktal.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/01 ✅ SMTP.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5825,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/e-mail-protokolle/01-✅-smtp.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/02 ✅ IMAP.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4760,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/e-mail-protokolle/02-✅-imap.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/03 ✅ POP3.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4586,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/e-mail-protokolle/03-✅-pop3.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/04 ✅ DMARC.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4933,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/e-mail-protokolle/04-✅-dmarc.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/E-Mail Protokolle/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/e-mail-protokolle/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/01 ✅ Zahlensysteme.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5269,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/01-✅-zahlensysteme.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/02 ✅ Kabeltypen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3995,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/02-✅-kabeltypen.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240114005651.png",
+        "lib/media/pasted-image-20240114005753.png",
+        "lib/media/pasted-image-20240114010226.png",
+        "lib/media/pasted-image-20240114005915.png",
+        "lib/media/pasted-image-20240212112856.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/03 ✅ Topologien.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4880,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/03-✅-topologien.html",
+      "dependencies": [
+        "lib/media/pasted-image-20231226182407.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/04 ✅ Netzwerkarten.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1198,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/04-✅-netzwerkarten.html",
+      "dependencies": [
+        "lib/media/pasted-image-20231227211728.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/05 ✅ Netzwerkkomponenten.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 15089,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/05-✅-netzwerkkomponenten.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240110214302.png",
+        "lib/media/pasted-image-20240110214616.png",
+        "lib/media/pasted-image-20240110214353.png",
+        "lib/media/pasted-image-20240110214746.png",
+        "lib/media/pasted-image-20240921232012.png",
+        "lib/media/pasted-image-20240220215807.png",
+        "lib/media/pasted-image-20240221095305.png",
+        "lib/media/pasted-image-20240921232100.png",
+        "lib/media/pasted-image-20240110214422.png",
+        "lib/media/pasted-image-20240110214911.png",
+        "lib/media/pasted-image-20240221095651.png",
+        "lib/media/pasted-image-20240220215916.png",
+        "lib/media/pasted-image-20240921232206.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/06 ✅ IPv4.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6055,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/06-✅-ipv4.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240113213721.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/07 ✅ MAC-Adresse.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1279,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/07-✅-mac-adresse.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240113002121.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/08 ✅ Broadcast, Multicast, Unicast.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1343,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/08-✅-broadcast,-multicast,-unicast.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/09 ✅ DNS.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3205,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/09-✅-dns.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240116135143.png",
+        "lib/media/{f3bef300-f242-4c3a-b0b0-8b9de077a941}.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/10 ✅ DHCPv4.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5905,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/10-✅-dhcpv4.html",
+      "dependencies": [
+        "lib/media/pasted-image-20231227213844.png",
+        "lib/media/pasted-image-20250201213123.png",
+        "lib/media/pasted-image-20250201213012.png",
+        "lib/media/pasted-image-20240114223818.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/11 ✅ Standardgateway.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1186,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/11-✅-standardgateway.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/12 ✅ Das OSI-Modell.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4323,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/12-✅-das-osi-modell.html",
+      "dependencies": [
+        "lib/media/pasted-image-20231227215841.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/13 ✅ TCP - IP Model.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2488,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/13-✅-tcp-ip-model.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240120205829.png",
+        "lib/media/pasted-image-20240120210323.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/14 ✅ UDP and TCP.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7728,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/14-✅-udp-and-tcp.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240921233048.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/15 ✅ IPv4 Subnetting.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2382,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/15-✅-ipv4-subnetting.html",
+      "dependencies": [
+        "lib/media/pasted-image-20231229000739.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/16 ✅ VLAN.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 8434,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/16-✅-vlan.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240114012843.png",
+        "lib/media/pasted-image-20240117171117.png",
+        "lib/media/pasted-image-20240117171022.png",
+        "lib/media/pasted-image-20240114222643.png",
+        "lib/media/pasted-image-20240114222728.png",
+        "lib/media/pasted-image-20240114223006.png",
+        "lib/media/pasted-image-20240114222838.png",
+        "lib/media/pasted-image-20240114223537.png",
+        "lib/media/pasted-image-20240114223412.png",
+        "lib/media/pasted-image-20240114223637.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/17 ✅ IPv6 & IPv6 Subnetting.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 9161,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/17-✅-ipv6-&-ipv6-subnetting.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250204191743.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/18 ✅ DHCPv6.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5624,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/18-✅-dhcpv6.html",
+      "dependencies": [
+        "lib/media/{ae8eb198-f37b-4997-b5ac-3b6201404b0d}.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/19 ✅ SLAAC.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3981,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/19-✅-slaac.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/20 ✅ WLAN - WiFi - WPA.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 14982,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/20-✅-wlan-wifi-wpa.html",
+      "dependencies": [
+        "lib/media/{7d0d6782-9cf1-45f3-9c1f-a7d425fdad1a}.png",
+        "lib/media/{5623788b-656a-4642-a015-52abeaf2b2eb}.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/21 ✅ Access Point, Repeator.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5417,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/21-✅-access-point,-repeator.html",
+      "dependencies": [
+        "lib/media/{62b40b3c-4273-412e-b60f-1d137b240c50}.png",
+        "lib/media/pasted-image-20250211183918.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/22 ✅ Firewall.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 16725,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/22-✅-firewall.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250204193337.png",
+        "lib/media/pasted-image-20250204194445.png",
+        "lib/media/{cf411924-5374-4aa3-83ab-33298517a293}.png",
+        "lib/media/{c1bea54d-eca5-4434-bbd1-fd69f356f9f8}.png",
+        "lib/media/{dbcd6319-5199-4494-92bd-b04384e54e23}.png",
+        "lib/media/{38b6405f-d107-4045-bc23-2ab1157322f7}.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/23 ✅ NAT.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 11972,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/23-✅-nat.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241023130216.png",
+        "lib/media/pasted-image-20241023130254.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/24 ✅ DMZ.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4828,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/24-✅-dmz.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250206210421.png",
+        "lib/media/pasted-image-20250206210504.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/25 ✅ AAA-Server und RADIUS.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6875,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/25-✅-aaa-server-und-radius.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241126094023.png",
+        "lib/media/pasted-image-20241126094039.png",
+        "lib/media/pasted-image-20241126094538.png",
+        "lib/media/pasted-image-20241126094856.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/26 ✅ Proxy.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 15552,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/26-✅-proxy.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250205210845.png",
+        "lib/media/pasted-image-20250205210923.png",
+        "lib/media/pasted-image-20250205211141.png",
+        "lib/media/pasted-image-20250205211818.png",
+        "lib/media/pasted-image-20250205211225.png",
+        "lib/media/pasted-image-20250205210845.png",
+        "lib/media/pasted-image-20250205210923.png",
+        "lib/media/pasted-image-20250205211141.png",
+        "lib/media/pasted-image-20250205211818.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/27 ✅ SSL - TLS.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5337,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/27-✅-ssl-tls.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240921233415.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/28 ✅ SSH.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2442,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/28-✅-ssh.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/29 ✅ FTP - SFTP.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2589,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/29-✅-ftp-sftp.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/30 ✅ HTTP - HTTPS.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6560,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/30-✅-http-https.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/31 ✅ Sockets.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3444,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/31-✅-sockets.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/32 ✅ URL.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5983,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/32-✅-url.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240208105219.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/33 ✅ Quality of Service (QoS).md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6209,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/33-✅-quality-of-service-(qos).html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/34 ✅ Telnet.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5793,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/34-✅-telnet.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/35 ✅ SNMP.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6759,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/35-✅-snmp.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/03 🌐 Netzwerktechnik/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/03-🌐-netzwerktechnik/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/01 ✅ Einstieg Schutzbedarfsanalyse.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7346,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/01-✅-einstieg-schutzbedarfsanalyse.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240125102914.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/02 ✅ ISMS.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 9104,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/02-✅-isms.html",
+      "dependencies": [
+        "lib/media/informationsmanagementsystem.pdf",
+        "lib/media/pasted-image-20241205111114.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/03 ✅ BSI.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6400,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/03-✅-bsi.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/04 ✅ ISO.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6338,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/04-✅-iso.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/05 ✅ Schutzbedarfskategorien.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6356,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/05-✅-schutzbedarfskategorien.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/06 ✅ Elementare Gefährdungen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2897,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/06-✅-elementare-gefährdungen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/07 ✅ PDCA-Zyklus.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2736,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/07-✅-pdca-zyklus.html",
+      "dependencies": [
+        "lib/media/pdca-zyklus-900x486.jpeg"
+      ]
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/08 ✅ IPSec.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 10802,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/08-✅-ipsec.html",
+      "dependencies": [
+        "lib/media/{bc216f78-3bbb-4eff-9b71-3c6f4b970b86}.png",
+        "lib/media/pasted-image-20241205211957.png",
+        "lib/media/{a93c922b-e125-484f-b160-759b67595cb0}.png",
+        "lib/media/{a93c922b-e125-484f-b160-759b67595cb0}.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/09 ✅ ITIL.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5146,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/09-✅-itil.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/04 🛡️ Schutzbedarfsanalyse/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/04-🛡️-schutzbedarfsanalyse/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/01✅ Entity-Relationship-Modell (ERM).md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1876,
+      "exportedPath": "schule/abschlussprüfung/05-💾-sql-datenbanken/01✅-entity-relationship-modell-(erm).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240121144928.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/02✅ Normalisierung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4098,
+      "exportedPath": "schule/abschlussprüfung/05-💾-sql-datenbanken/02✅-normalisierung.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240121143330.png",
+        "lib/media/pasted-image-20240121143346.png",
+        "lib/media/pasted-image-20240121143358.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/03✅ ACID Prinzip.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3580,
+      "exportedPath": "schule/abschlussprüfung/05-💾-sql-datenbanken/03✅-acid-prinzip.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/04✅ N zu M-Beziehungen und Surrogatschlüssel.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2541,
+      "exportedPath": "schule/abschlussprüfung/05-💾-sql-datenbanken/04✅-n-zu-m-beziehungen-und-surrogatschlüssel.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/05✅ 25 wichtigsten SQL-Befehlen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 12000,
+      "exportedPath": "schule/abschlussprüfung/05-💾-sql-datenbanken/05✅-25-wichtigsten-sql-befehlen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/06✅ JOIN.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4972,
+      "exportedPath": "schule/abschlussprüfung/05-💾-sql-datenbanken/06✅-join.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/Datenbankarten.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 83,
+      "exportedPath": "schule/abschlussprüfung/05-💾-sql-datenbanken/datenbankarten.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/05 💾 SQL Datenbanken/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/05-💾-sql-datenbanken/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/01 Java-Variablen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1112,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/java/01-java-variablen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/02 String Funktionen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1800,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/java/02-string-funktionen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/03 Kontrollstrukturen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6894,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/java/03-kontrollstrukturen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/04 Scanner (Eingabe Zahlen und Text).md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2124,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/java/04-scanner-(eingabe-zahlen-und-text).html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/05 Getter-Setter.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6275,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/java/05-getter-setter.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/06 Array.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3348,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/java/06-array.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/java/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Java/Erstellung einer Klasse in UML-Notation.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 519,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/java/erstellung-einer-klasse-in-uml-notation.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240118211207.png",
+        "lib/media/изображение-whatsapp-2024-01-18-в-20.11.51_53a7aef8-2.jpg"
+      ]
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/Projekte/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/projekte/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/Projekte/helloworld.py": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 48,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/projekte/helloworld.py",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/📌🐍 Python Themen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 9001,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/📌🐍-python-themen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/01 ✅ Python Syntax.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1194,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/01-✅-python-syntax.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/02 ✅ Python Variables.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6190,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/02-✅-python-variables.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/03 ✅ Python Data Types.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2646,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/03-✅-python-data-types.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/04 ✅ Python Numbers.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1860,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/04-✅-python-numbers.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/05 ✅ Python Casting.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1310,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/05-✅-python-casting.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/06 Python Strings.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 165,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/06-python-strings.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Python/Tutorial Extracting and Converting Parts of Strings into Numbers in Python.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3452,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/python/tutorial-extracting-and-converting-parts-of-strings-into-numbers-in-python.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/01 Methoden mit einem Struktogramm erstellen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 868,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/struktogramm/01-methoden-mit-einem-struktogramm-erstellen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/01 Regeln für Struktogramm.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2186,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/struktogramm/01-regeln-für-struktogramm.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/01 Struktogramm.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3108,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/struktogramm/01-struktogramm.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240118210121.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/01 Struktogramm Basics.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4121,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/struktogramm/01-struktogramm-basics.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/Struktogramm/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/struktogramm/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/06 🖥️ Programmierung/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/06-🖥️-programmierung/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/1) Start Up/01 Unternehmensgründung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3818,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/1)-start-up/01-unternehmensgründung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/1) Start Up/02 Finanzierung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2346,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/1)-start-up/02-finanzierung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/1) Start Up/03 Rechtsformen Vor und Nachteile.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 39,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/1)-start-up/03-rechtsformen-vor-und-nachteile.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240207083513.jpg"
+      ]
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/1) Start Up/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/1)-start-up/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/2) Projektmanagement/01 Basics.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5456,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/2)-projektmanagement/01-basics.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/2) Projektmanagement/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/2)-projektmanagement/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/3) Unternehmensformen/01 Rechtsformen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 16828,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/3)-unternehmensformen/01-rechtsformen.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240207093211.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/3) Unternehmensformen/02 Rechtsformen der öffentlichen Hand.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2821,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/3)-unternehmensformen/02-rechtsformen-der-öffentlichen-hand.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/3) Unternehmensformen/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/3)-unternehmensformen/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/4) Finanzierung/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/4)-finanzierung/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/5) IT-Service/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/5)-it-service/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/1. Jahr/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/1.-jahr/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/01 ABC-Analyse.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1882,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/01-abc-analyse.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240218214345.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/02 Angebotsvergleich Entscheidungs Kriterien.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2958,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/02-angebotsvergleich-entscheidungs-kriterien.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240221155533.jpg"
+      ]
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/03 Pareto Prinzip.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 538,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/03-pareto-prinzip.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/04 BGB.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 36,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/04-bgb.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240219211857.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/05 Bindung an das Angebot.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 375,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/05-bindung-an-das-angebot.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/06 Anfrage + Angebot.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 392,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/06-anfrage-+-angebot.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/07 Bestellverfahren.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 0,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/07-bestellverfahren.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/09 Lagerkennzahlen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 0,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/09-lagerkennzahlen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/10 Mehrwersteuer vs Umsatzsteuer.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 745,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/10-mehrwersteuer-vs-umsatzsteuer.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/11 Optimale Bestellmenge.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 0,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/11-optimale-bestellmenge.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/12 Vergleich bsp.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 41,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/12-vergleich-bsp.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240218214144.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/13 Prozentrechnung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 212,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/13-prozentrechnung.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240219194218.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/14 Vertragsarten.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5073,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/14-vertragsarten.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/15 Kostenartenrechnung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 22,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/15-kostenartenrechnung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/2. Jahr/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/2.-jahr/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/von Lukas/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/von-lukas/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/01 Rechtsformen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 13136,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/01-rechtsformen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/02 Finanzierung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 6791,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/02-finanzierung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/03 Lagerhaltung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4920,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/03-lagerhaltung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/04 Kostenrechnung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5624,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/04-kostenrechnung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/IT-Service.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2642,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/it-service.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/07 💲BWL/Projektmanagement.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2442,
+      "exportedPath": "schule/abschlussprüfung/07-💲bwl/projektmanagement.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/08 Deutsch/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/08-deutsch/desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/01 ✅ Rechte und Pflichte in der Ausbildung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3719,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/01-✅-rechte-und-pflichte-in-der-ausbildung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/02 ✅ Sozialer Arbeitsschutz.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4625,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/02-✅-sozialer-arbeitsschutz.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/03 ✅ Schutz vom Gefahren am Arbeitsplatz.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4394,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/03-✅-schutz-vom-gefahren-am-arbeitsplatz.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/04 ✅ Arbeitsrecht.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4727,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/04-✅-arbeitsrecht.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/05 ✅ Arbeitsvertrag.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5102,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/05-✅-arbeitsvertrag.html",
+      "dependencies": [
+        "lib/media/{a9a2df18-0d34-402c-b2df-8cc942349c0d}.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/06 ✅ Kündingung und Kündigungsschutz.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4977,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/06-✅-kündingung-und-kündigungsschutz.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/07 ✅ Betriebsrat.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5700,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/07-✅-betriebsrat.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/08 ✅ Tarifverträge.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4331,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/08-✅-tarifverträge.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/09 ✅ Lohn- und Gehaltsabrechnung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3774,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/09-✅-lohn-und-gehaltsabrechnung.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/10 ✅ Sozialversicherungssystem.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4455,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/10-✅-sozialversicherungssystem.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/11 ✅ Verträge abschließen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3759,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/11-✅-verträge-abschließen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/12 ✅ Mängelreklamation.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5248,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/12-✅-mängelreklamation.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/13 ✅ Angebotsvergleich.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4147,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/13-✅-angebotsvergleich.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250228095906.png",
+        "lib/media/pasted-image-20250228095931.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/14 ✅ Arten von Güter.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5765,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/14-✅-arten-von-güter.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/15 ✅ Anlageformen und Dreieck der Vermögensbildung.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5809,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/15-✅-anlageformen-und-dreieck-der-vermögensbildung.html",
+      "dependencies": [
+        "lib/media/{b0d8c2d6-ba72-4b75-91ce-96c5eb589e03}.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/16 ✅ Kredite.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 12181,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/16-✅-kredite.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250112150846.png",
+        "lib/media/pasted-image-20250112150745.png",
+        "lib/media/pasted-image-20250112150700.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/17 ✅ Maximal-Minimal Prinzip.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2111,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/17-✅-maximal-minimal-prinzip.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/18 ✅ Schulden, Gründe für Überschuldung, Verbraucherinsolvenz.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5281,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/18-✅-schulden,-gründe-für-überschuldung,-verbraucherinsolvenz.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/19 ✅ Marktarten.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2325,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/19-✅-marktarten.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/20 ✅ Marktformen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 8848,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/20-✅-marktformen.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/21 ✅ Marktwirtschaft und Wirtschaftspolitik.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4172,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/21-✅-marktwirtschaft-und-wirtschaftspolitik.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/22 ✅ Inflation, Deflation und Reallohn.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4551,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/22-✅-inflation,-deflation-und-reallohn.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/23 ✅ Gründung von Unternehmen.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7984,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/23-✅-gründung-von-unternehmen.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250228113511.png"
+      ]
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/24 ✅ Unternehmensstruktur und Rechtsformen .md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4528,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/24-✅-unternehmensstruktur-und-rechtsformen-.md/24-✅-unternehmensstruktur-und-rechtsformen-.md.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/25 ✅ Finanzierung WK.md": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1085,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/25-✅-finanzierung-wk.html",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/27 desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/27-desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/28 desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/28-desktop.ini",
+      "dependencies": []
+    },
+    "Schule/Abschlussprüfung/09 📝 Wirtschaftskunde/desktop.ini": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106,
+      "exportedPath": "schule/abschlussprüfung/09-📝-wirtschaftskunde/desktop.ini",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029155506.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 291066,
+      "exportedPath": "lib/media/pasted-image-20241029155506.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029155430.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 897314,
+      "exportedPath": "lib/media/pasted-image-20241029155430.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029155350.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1875147,
+      "exportedPath": "lib/media/pasted-image-20241029155350.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029155309.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 972690,
+      "exportedPath": "lib/media/pasted-image-20241029155309.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029155241.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 101218,
+      "exportedPath": "lib/media/pasted-image-20241029155241.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029155216.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 2197777,
+      "exportedPath": "lib/media/pasted-image-20241029155216.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029155122.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1142082,
+      "exportedPath": "lib/media/pasted-image-20241029155122.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029155036.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 282506,
+      "exportedPath": "lib/media/pasted-image-20241029155036.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029154952.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 97478,
+      "exportedPath": "lib/media/pasted-image-20241029154952.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029154918.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1012708,
+      "exportedPath": "lib/media/pasted-image-20241029154918.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029154040.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 107810,
+      "exportedPath": "lib/media/pasted-image-20241029154040.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029160105.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 127470,
+      "exportedPath": "lib/media/pasted-image-20241029160105.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241029160202.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 437227,
+      "exportedPath": "lib/media/pasted-image-20241029160202.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241112140926.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 134379,
+      "exportedPath": "lib/media/pasted-image-20241112140926.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241114142942.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 495878,
+      "exportedPath": "lib/media/pasted-image-20241114142942.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241114142852.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 431129,
+      "exportedPath": "lib/media/pasted-image-20241114142852.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241114143829.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 446056,
+      "exportedPath": "lib/media/pasted-image-20241114143829.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241114143919.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 930307,
+      "exportedPath": "lib/media/pasted-image-20241114143919.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241114144011.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 483964,
+      "exportedPath": "lib/media/pasted-image-20241114144011.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241114144050.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 148453,
+      "exportedPath": "lib/media/pasted-image-20241114144050.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241114144149.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 153595,
+      "exportedPath": "lib/media/pasted-image-20241114144149.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241112134759.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 57844,
+      "exportedPath": "lib/media/pasted-image-20241112134759.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241112134751.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 213608,
+      "exportedPath": "lib/media/pasted-image-20241112134751.png",
+      "dependencies": []
+    },
+    "lib/media/full-backup.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 16207,
+      "exportedPath": "lib/media/full-backup.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240115092315.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 26355,
+      "exportedPath": "lib/media/pasted-image-20240115092315.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240115092552.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 24405,
+      "exportedPath": "lib/media/pasted-image-20240115092552.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240115092418.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 400204,
+      "exportedPath": "lib/media/pasted-image-20240115092418.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240111101957.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 120105,
+      "exportedPath": "lib/media/pasted-image-20240111101957.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240111104507.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 118048,
+      "exportedPath": "lib/media/pasted-image-20240111104507.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240111102048.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 173907,
+      "exportedPath": "lib/media/pasted-image-20240111102048.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240111102146.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 115863,
+      "exportedPath": "lib/media/pasted-image-20240111102146.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240111102242.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 123909,
+      "exportedPath": "lib/media/pasted-image-20240111102242.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240115102038.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 156503,
+      "exportedPath": "lib/media/pasted-image-20240115102038.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240115102117.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 240504,
+      "exportedPath": "lib/media/pasted-image-20240115102117.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240115102316.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 116407,
+      "exportedPath": "lib/media/pasted-image-20240115102316.png",
+      "dependencies": []
+    },
+    "lib/media/usv.pdf": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 83125,
+      "exportedPath": "lib/media/usv.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241022155403.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 25432,
+      "exportedPath": "lib/media/pasted-image-20241022155403.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241022155501.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 18173,
+      "exportedPath": "lib/media/pasted-image-20241022155501.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240307223220.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 8682,
+      "exportedPath": "lib/media/pasted-image-20240307223220.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240326144358.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 37553,
+      "exportedPath": "lib/media/pasted-image-20240326144358.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240326144458.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7708,
+      "exportedPath": "lib/media/pasted-image-20240326144458.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240326144431.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 34488,
+      "exportedPath": "lib/media/pasted-image-20240326144431.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250302165530.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 142292,
+      "exportedPath": "lib/media/pasted-image-20250302165530.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114005651.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 285463,
+      "exportedPath": "lib/media/pasted-image-20240114005651.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114005753.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 979866,
+      "exportedPath": "lib/media/pasted-image-20240114005753.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114010226.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 198156,
+      "exportedPath": "lib/media/pasted-image-20240114010226.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114005915.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 595707,
+      "exportedPath": "lib/media/pasted-image-20240114005915.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240212112856.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 242246,
+      "exportedPath": "lib/media/pasted-image-20240212112856.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231226182407.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 449440,
+      "exportedPath": "lib/media/pasted-image-20231226182407.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231227211728.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 125135,
+      "exportedPath": "lib/media/pasted-image-20231227211728.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240110214302.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 4989,
+      "exportedPath": "lib/media/pasted-image-20240110214302.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240110214616.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 207076,
+      "exportedPath": "lib/media/pasted-image-20240110214616.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240110214353.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 22841,
+      "exportedPath": "lib/media/pasted-image-20240110214353.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240110214746.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 344293,
+      "exportedPath": "lib/media/pasted-image-20240110214746.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240921232012.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 61188,
+      "exportedPath": "lib/media/pasted-image-20240921232012.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240220215807.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 466258,
+      "exportedPath": "lib/media/pasted-image-20240220215807.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240221095305.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 67334,
+      "exportedPath": "lib/media/pasted-image-20240221095305.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240921232100.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 38054,
+      "exportedPath": "lib/media/pasted-image-20240921232100.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240110214422.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 95750,
+      "exportedPath": "lib/media/pasted-image-20240110214422.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240110214911.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 52491,
+      "exportedPath": "lib/media/pasted-image-20240110214911.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240221095651.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 92253,
+      "exportedPath": "lib/media/pasted-image-20240221095651.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240220215916.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 104158,
+      "exportedPath": "lib/media/pasted-image-20240220215916.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240921232206.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 45966,
+      "exportedPath": "lib/media/pasted-image-20240921232206.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240113213721.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 104375,
+      "exportedPath": "lib/media/pasted-image-20240113213721.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240113002121.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 94980,
+      "exportedPath": "lib/media/pasted-image-20240113002121.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240116135143.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 22106,
+      "exportedPath": "lib/media/pasted-image-20240116135143.png",
+      "dependencies": []
+    },
+    "lib/media/{f3bef300-f242-4c3a-b0b0-8b9de077a941}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 68243,
+      "exportedPath": "lib/media/{f3bef300-f242-4c3a-b0b0-8b9de077a941}.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231227213844.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 100726,
+      "exportedPath": "lib/media/pasted-image-20231227213844.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250201213123.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 537495,
+      "exportedPath": "lib/media/pasted-image-20250201213123.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250201213012.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 36962,
+      "exportedPath": "lib/media/pasted-image-20250201213012.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114223818.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 136496,
+      "exportedPath": "lib/media/pasted-image-20240114223818.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231227215841.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 90755,
+      "exportedPath": "lib/media/pasted-image-20231227215841.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240120205829.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 238081,
+      "exportedPath": "lib/media/pasted-image-20240120205829.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240120210323.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 82753,
+      "exportedPath": "lib/media/pasted-image-20240120210323.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240921233048.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 39806,
+      "exportedPath": "lib/media/pasted-image-20240921233048.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231229000739.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 62025,
+      "exportedPath": "lib/media/pasted-image-20231229000739.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114012843.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 188453,
+      "exportedPath": "lib/media/pasted-image-20240114012843.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240117171117.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 163338,
+      "exportedPath": "lib/media/pasted-image-20240117171117.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240117171022.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 121992,
+      "exportedPath": "lib/media/pasted-image-20240117171022.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114222643.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 19941,
+      "exportedPath": "lib/media/pasted-image-20240114222643.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114222728.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 27335,
+      "exportedPath": "lib/media/pasted-image-20240114222728.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114223006.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 38135,
+      "exportedPath": "lib/media/pasted-image-20240114223006.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114222838.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 41169,
+      "exportedPath": "lib/media/pasted-image-20240114222838.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114223537.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 34035,
+      "exportedPath": "lib/media/pasted-image-20240114223537.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114223412.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 38706,
+      "exportedPath": "lib/media/pasted-image-20240114223412.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240114223637.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 26096,
+      "exportedPath": "lib/media/pasted-image-20240114223637.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250204191743.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 45005,
+      "exportedPath": "lib/media/pasted-image-20250204191743.png",
+      "dependencies": []
+    },
+    "lib/media/{ae8eb198-f37b-4997-b5ac-3b6201404b0d}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 138670,
+      "exportedPath": "lib/media/{ae8eb198-f37b-4997-b5ac-3b6201404b0d}.png",
+      "dependencies": []
+    },
+    "lib/media/{7d0d6782-9cf1-45f3-9c1f-a7d425fdad1a}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 50067,
+      "exportedPath": "lib/media/{7d0d6782-9cf1-45f3-9c1f-a7d425fdad1a}.png",
+      "dependencies": []
+    },
+    "lib/media/{5623788b-656a-4642-a015-52abeaf2b2eb}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 33125,
+      "exportedPath": "lib/media/{5623788b-656a-4642-a015-52abeaf2b2eb}.png",
+      "dependencies": []
+    },
+    "lib/media/{62b40b3c-4273-412e-b60f-1d137b240c50}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 54588,
+      "exportedPath": "lib/media/{62b40b3c-4273-412e-b60f-1d137b240c50}.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250211183918.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 489135,
+      "exportedPath": "lib/media/pasted-image-20250211183918.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250204193337.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 78364,
+      "exportedPath": "lib/media/pasted-image-20250204193337.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250204194445.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 130346,
+      "exportedPath": "lib/media/pasted-image-20250204194445.png",
+      "dependencies": []
+    },
+    "lib/media/{cf411924-5374-4aa3-83ab-33298517a293}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 412640,
+      "exportedPath": "lib/media/{cf411924-5374-4aa3-83ab-33298517a293}.png",
+      "dependencies": []
+    },
+    "lib/media/{c1bea54d-eca5-4434-bbd1-fd69f356f9f8}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 388113,
+      "exportedPath": "lib/media/{c1bea54d-eca5-4434-bbd1-fd69f356f9f8}.png",
+      "dependencies": []
+    },
+    "lib/media/{dbcd6319-5199-4494-92bd-b04384e54e23}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 45643,
+      "exportedPath": "lib/media/{dbcd6319-5199-4494-92bd-b04384e54e23}.png",
+      "dependencies": []
+    },
+    "lib/media/{38b6405f-d107-4045-bc23-2ab1157322f7}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 35072,
+      "exportedPath": "lib/media/{38b6405f-d107-4045-bc23-2ab1157322f7}.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241023130216.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 41533,
+      "exportedPath": "lib/media/pasted-image-20241023130216.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241023130254.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 220005,
+      "exportedPath": "lib/media/pasted-image-20241023130254.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250206210421.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 95651,
+      "exportedPath": "lib/media/pasted-image-20250206210421.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250206210504.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 99470,
+      "exportedPath": "lib/media/pasted-image-20250206210504.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241126094023.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 249024,
+      "exportedPath": "lib/media/pasted-image-20241126094023.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241126094039.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 44578,
+      "exportedPath": "lib/media/pasted-image-20241126094039.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241126094538.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 806169,
+      "exportedPath": "lib/media/pasted-image-20241126094538.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241126094856.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 11658,
+      "exportedPath": "lib/media/pasted-image-20241126094856.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250205210845.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 43787,
+      "exportedPath": "lib/media/pasted-image-20250205210845.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250205210923.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 33611,
+      "exportedPath": "lib/media/pasted-image-20250205210923.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250205211141.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 29080,
+      "exportedPath": "lib/media/pasted-image-20250205211141.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250205211818.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 88799,
+      "exportedPath": "lib/media/pasted-image-20250205211818.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250205211225.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 33461,
+      "exportedPath": "lib/media/pasted-image-20250205211225.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240921233415.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 46095,
+      "exportedPath": "lib/media/pasted-image-20240921233415.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240208105219.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 28597,
+      "exportedPath": "lib/media/pasted-image-20240208105219.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240125102914.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 183234,
+      "exportedPath": "lib/media/pasted-image-20240125102914.png",
+      "dependencies": []
+    },
+    "lib/media/informationsmanagementsystem.pdf": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 45409,
+      "exportedPath": "lib/media/informationsmanagementsystem.pdf",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241205111114.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 548233,
+      "exportedPath": "lib/media/pasted-image-20241205111114.png",
+      "dependencies": []
+    },
+    "lib/media/pdca-zyklus-900x486.jpeg": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 131086,
+      "exportedPath": "lib/media/pdca-zyklus-900x486.jpeg",
+      "dependencies": []
+    },
+    "lib/media/{bc216f78-3bbb-4eff-9b71-3c6f4b970b86}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 59476,
+      "exportedPath": "lib/media/{bc216f78-3bbb-4eff-9b71-3c6f4b970b86}.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241205211957.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 44441,
+      "exportedPath": "lib/media/pasted-image-20241205211957.png",
+      "dependencies": []
+    },
+    "lib/media/{a93c922b-e125-484f-b160-759b67595cb0}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 316296,
+      "exportedPath": "lib/media/{a93c922b-e125-484f-b160-759b67595cb0}.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240121144928.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 41459,
+      "exportedPath": "lib/media/pasted-image-20240121144928.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240121143330.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 325330,
+      "exportedPath": "lib/media/pasted-image-20240121143330.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240121143346.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 373553,
+      "exportedPath": "lib/media/pasted-image-20240121143346.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240121143358.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 402584,
+      "exportedPath": "lib/media/pasted-image-20240121143358.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240118211207.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 12484,
+      "exportedPath": "lib/media/pasted-image-20240118211207.png",
+      "dependencies": []
+    },
+    "lib/media/изображение-whatsapp-2024-01-18-в-20.11.51_53a7aef8-2.jpg": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 24816,
+      "exportedPath": "lib/media/изображение-whatsapp-2024-01-18-в-20.11.51_53a7aef8-2.jpg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240118210121.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 581037,
+      "exportedPath": "lib/media/pasted-image-20240118210121.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240207083513.jpg": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 53470,
+      "exportedPath": "lib/media/pasted-image-20240207083513.jpg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240207093211.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 58475,
+      "exportedPath": "lib/media/pasted-image-20240207093211.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240218214345.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 100970,
+      "exportedPath": "lib/media/pasted-image-20240218214345.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240221155533.jpg": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 55111,
+      "exportedPath": "lib/media/pasted-image-20240221155533.jpg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240219211857.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 159080,
+      "exportedPath": "lib/media/pasted-image-20240219211857.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240218214144.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 53080,
+      "exportedPath": "lib/media/pasted-image-20240218214144.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240219194218.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 23825,
+      "exportedPath": "lib/media/pasted-image-20240219194218.png",
+      "dependencies": []
+    },
+    "lib/media/{a9a2df18-0d34-402c-b2df-8cc942349c0d}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 60824,
+      "exportedPath": "lib/media/{a9a2df18-0d34-402c-b2df-8cc942349c0d}.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250228095906.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 33076,
+      "exportedPath": "lib/media/pasted-image-20250228095906.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250228095931.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 60538,
+      "exportedPath": "lib/media/pasted-image-20250228095931.png",
+      "dependencies": []
+    },
+    "lib/media/{b0d8c2d6-ba72-4b75-91ce-96c5eb589e03}.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 186634,
+      "exportedPath": "lib/media/{b0d8c2d6-ba72-4b75-91ce-96c5eb589e03}.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250112150846.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 130077,
+      "exportedPath": "lib/media/pasted-image-20250112150846.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250112150745.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 145783,
+      "exportedPath": "lib/media/pasted-image-20250112150745.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250112150700.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 30599,
+      "exportedPath": "lib/media/pasted-image-20250112150700.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250228113511.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 57758,
+      "exportedPath": "lib/media/pasted-image-20250228113511.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 89003,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 20256,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 137466,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1741291797527,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
